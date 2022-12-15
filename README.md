@@ -1,2 +1,6 @@
 # password_verifier
- password parameter check
+ Checks password for set parameters.
+ 
+ 5-16 characters
+ Contains letters & numbers
+ Contains no spaces
